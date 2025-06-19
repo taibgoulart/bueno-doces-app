@@ -1,4 +1,4 @@
-# bueno-doces-app
+
 # Gestão Doce 🍬📱
 **Sistema de Apoio à Microempreendedora na Área de Confeitaria**
 
