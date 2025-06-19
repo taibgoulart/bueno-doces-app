@@ -2,13 +2,13 @@
 # Gestão Doce 🍬📱
 **Sistema de Apoio à Microempreendedora na Área de Confeitaria**
 
-Este projeto faz parte da disciplina **Programação para Dispositivos Móveis em Android**, do curso de **Análise e Desenvolvimento de Sistemas** da UNIASSELVI.
+Este projeto faz parte da disciplina **Programação para Dispositivos Móveis em Android**, do curso de **Análise e Desenvolvimento de Sistemas** da Estácio.
 
 ## 🎯 Objetivo
 Desenvolver um aplicativo Android simples para auxiliar a microempreendedora **Luana Bueno**, da empresa **Bueno Doces**, no controle de pedidos, estoque e entregas.
 
 ## 👩‍🍳 Sobre a empreendedora
-Luana é MEI, mãe solo de duas crianças pequenas, e realiza sua gestão manualmente com planilhas e anotações. O projeto visa facilitar sua rotina com tecnologia acessível.
+Luana é MEI, mãe de duas crianças pequenas, e realiza sua gestão manualmente com planilhas e anotações. O projeto visa facilitar sua rotina com tecnologia acessível.
 
 ## 🛠️ Funcionalidades planejadas
 - Cadastro de pedidos
