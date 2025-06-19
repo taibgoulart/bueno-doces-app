@@ -19,7 +19,7 @@ Luana é MEI, mãe solo de duas crianças pequenas, e realiza sua gestão manual
 ## 📱 Protótipo
 O protótipo da aplicação foi desenvolvido no Figma e a estrutura do projeto está sendo construída em Android Studio com linguagem Kotlin.
 
-![Protótipo da tela inicial](prototipo.png)
+![Protótipo da tela inicial](Captura de tela 2025-06-19 211202.png)
 
 ## 📂 Estrutura do Repositório
 - `README.md` → este arquivo
